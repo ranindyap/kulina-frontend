@@ -227,7 +227,7 @@ h1{
 
 /*Make background*/
 .bgclass {
-    background: linear-gradient(to left, rgba(255, 123, 0, 0.541),rgba(201, 9, 9, 0.829)), url('https://raw.githubusercontent.com/ranindyap/kulina-frontend/master/images/back.jpg');
+    background: linear-gradient(to left, rgba(255, 123, 0, 0.541),rgba(201, 9, 9, 0.829)), url('kulina-frontend/images/back.jpg');
     width : 100%;
     height: 95%;
     background-size: cover;
